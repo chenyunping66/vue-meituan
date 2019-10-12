@@ -1,0 +1,12 @@
+<template>
+  <div>
+    One vue页面
+  </div>
+</template>
+<script>
+export default {
+
+}
+</script>
+<style scoped>
+</style>
